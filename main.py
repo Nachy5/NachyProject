@@ -7,6 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+<<<<<<< HEAD
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('bro')
@@ -23,5 +24,4 @@ Year1= growth_multiplier*savings
 print(type(Year1))
 doubledesc= desc+desc
 print(doubledesc)
-
-
+=======
