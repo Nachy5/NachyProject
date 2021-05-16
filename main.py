@@ -23,7 +23,7 @@ Year1= growth_multiplier*savings
 print(type(Year1))
 Doubledesc= Desc+Desc
 print(Doubledesc)
-#Joining Multiple values
+#Joining Multiple values together
 #You have to convert them to strings str() or floats Float() or integers int()
 print(int(result) + int(savings))
 print("I started with $") + str(savings) + "and now have $" +str(result) + "Awesome!")
