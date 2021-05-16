@@ -21,7 +21,8 @@ print(result)
 Desc= 'compound interest'
 profitable=True
 Year1= growth_multiplier*savings
+#print type
 print(type(Year1))
 doubledesc= desc+desc
 print(doubledesc)
-=======
+
